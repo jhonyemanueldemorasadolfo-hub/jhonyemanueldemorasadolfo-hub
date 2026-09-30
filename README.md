@@ -22,9 +22,6 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44D27?style=for-the-badge&logo=git&logoColor=white)
 
-**Em breve (Próximo aprendizado):**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ---
 
 ### 📌 Projeto em Destaque
