@@ -59,16 +59,11 @@ I believe that consistent practice, curiosity and the willingness to learn from 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Languages
 
-### Front-end Development
+### Languages & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript"/>
-</p>
-
-### Back-end Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,py,html,css,js,php" alt="C, C#, Java, Python, HTML, CSS, JavaScript, PHP"/>
 </p>
 
 ### Databases
