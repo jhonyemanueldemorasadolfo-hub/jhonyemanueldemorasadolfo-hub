@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jhonyemanueldev&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jhonyemanueldemorasadolfo-hub&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
@@ -86,12 +86,12 @@ I believe that consistent practice, curiosity and the willingness to learn from 
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonyemanueldev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyemanueldev&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonyemanueldemorasadolfo-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyemanueldemorasadolfo-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhonyemanueldev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=jhonyemanueldemorasadolfo-hub&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
 ---
