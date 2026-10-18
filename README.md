@@ -14,7 +14,7 @@
   <a href="mailto:jhonyemanueldemorasadolfo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>"Profile Views" (https://komarev.com/ghpvc/?username=jhonyemanueldev&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
+</p>"Profile Views" (https://komarev.com/ghpvc/?username=jhonyemanueldemorasadolfo&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
 
 </div>---
 
@@ -62,7 +62,7 @@ Front-end Development
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code"/>
 </p>📊 GitHub Overview
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonyemanueldev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyemanueldev&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/></div><div align="center"><img src="https://streak-stats.demolab.com?user=jhonyemanueldev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/></div>🧭 Beyond the Code
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonyemanueldemorasadolfo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyemanueldev&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/></div><div align="center"><img src="https://streak-stats.demolab.com?user=jhonyemanueldev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/></div>🧭 Beyond the Code
 
 When I'm not studying or coding, I enjoy gaming, spending time with friends and exploring new interests.
 
